@@ -2,7 +2,7 @@ import cv2, glob
 
 all_images = glob.glob("*.jpg")
 detect = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
-imp_img = cv2.VideoCapture("elon.jpg")
+imp_img = cv2.VideoCapture("mark.jpg")
 
 for image in all_images:
     img = cv2.imread(image)
@@ -16,4 +16,3 @@ for ( x, y, w, h) in faces:
 cv2. imshow("Face Detection", final_img)
 cv2.waitKey(2000)
 cv2.destroyAllWindows()
-
