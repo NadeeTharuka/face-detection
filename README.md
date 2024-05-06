@@ -44,6 +44,6 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
 - Haar-Cascade Face Detection: https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html
 
 ## Author
-Nadee Tharuka
-GitHub: [NadeeTharuka](https://github.com/NadeeTharuka)
+Nadee Tharuka  
+GitHub: [NadeeTharuka](https://github.com/NadeeTharuka)  
 LinkedIn: [Nadee Tharuka](https://www.linkedin.com/in/nadee-tharuka/)
